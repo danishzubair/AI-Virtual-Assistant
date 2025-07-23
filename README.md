@@ -1,4 +1,5 @@
 AI Virtual Assistant
+
 Overview
 
 The AI Virtual Assistant is a Python-based voice-controlled application designed to help children and adults overcome shyness in speaking and practice communication skills in a supportive environment. It also functions as a personal assistant, similar to Alexa, enabling users to perform tasks such as playing music, searching the web, checking the time, writing notes, and more. The assistant, named "Tom," fosters a friendly interaction by responding to personal questions and encouraging learning, making it ideal for users who lack a conversation partner or need assistance with daily tasks.
